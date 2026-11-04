@@ -1,4 +1,4 @@
-# XraySpectroBenchmark
+# Xray Spectral Inference Benchmark
 
 This is the companion repository of the paper "Benchmarking advanced X-ray spectral fitting methods in the NewAthena era".
 We aim for a broader scope to serve as a benchmarking platform for spectral of complex datasets against a variety of inference algorithms.
